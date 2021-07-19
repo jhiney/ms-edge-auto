@@ -1,0 +1,14 @@
+{
+  "name": "ms-edge-auto",
+  "version": "1.0.0",
+  "description": "automate ms edge rewards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
